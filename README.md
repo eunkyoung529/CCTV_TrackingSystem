@@ -213,8 +213,8 @@ streamlit run app.py
 
 | 이름 | 담당 역할 |
 | --- | --- |
-| [김은경] | [데이터 전처리, Streamlit UI 구현] |
-| [김민정] | [YOLOv8n 탐지 모델 학습, IoU 기반 다중 객체 추적 구현] |
+| 김은경 | 데이터 전처리, Streamlit UI 구현 |
+| 김민정 | YOLOv8n 탐지 모델 학습, IoU 기반 다중 객체 추적 구현 |
 
 ---
 
