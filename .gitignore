@@ -1,0 +1,29 @@
+# 대용량 모델 (구글 드라이브에서 다운로드)
+models/convnext_cbam_multihead_phase4.onnx
+
+# 대용량 영상
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# Streamlit 캐시
+.streamlit/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.tmp
+temp/

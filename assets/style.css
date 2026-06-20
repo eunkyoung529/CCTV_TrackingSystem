@@ -1,0 +1,9 @@
+[data-testid="stSidebarNav"] li a { font-size: 15px; font-weight: 500; }
+[data-testid="stMetric"] {
+    background-color: rgba(28, 131, 225, 0.06);
+    border-radius: 10px;
+    padding: 12px;
+}
+[data-testid="stProgress"] > div > div > div > div {
+    background: linear-gradient(90deg, #FF4B4B, #FF8C42);
+}
