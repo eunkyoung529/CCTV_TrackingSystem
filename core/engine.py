@@ -61,8 +61,8 @@ def load_sessions():
             st.stop()
 
     providers = [
-        "CUDAExecutionProvider",
-        "CoreMLExecutionProvider",
+        # "CUDAExecutionProvider",
+        # "CoreMLExecutionProvider",
         "CPUExecutionProvider",
     ]
     opts = ort.SessionOptions()
